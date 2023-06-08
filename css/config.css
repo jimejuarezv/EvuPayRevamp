@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    max-width: 42.4rem;
+    margin: auto;
+    font-size: 10px;
+}
+
+:root{
+    color: black;
+}
